@@ -2,3 +2,4 @@ v 3
 d Stata code by Zachary King
 
 l ctabxl https://raw.githubusercontent.com/zachprof/ctabxl/main Tabulate Pearson and Spearman correlations in Excel
+l icodes https://raw.githubusercontent.com/zachprof/icodes/main Create numeric SIC and Fama-French industry codes
