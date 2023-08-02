@@ -2,5 +2,6 @@ v 3
 d Stata code by Zachary King
 
 l ctabxl https://raw.githubusercontent.com/zachprof/ctabxl/main Tabulate Pearson and Spearman correlations in Excel
+l dtabxl https://raw.githubusercontent.com/zachprof/dtabxl/main Tabulate univariate descriptive statistics in Excel
 l icodes https://raw.githubusercontent.com/zachprof/icodes/main Create numeric SIC and Fama-French industry codes
 l todatetime https://raw.githubusercontent.com/zachprof/todatetime/main Convert strings to datetime format
