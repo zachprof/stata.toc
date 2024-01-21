@@ -5,3 +5,4 @@ l ctabxl https://raw.githubusercontent.com/zachprof/ctabxl/main Tabulate Pearson
 l dtabxl https://raw.githubusercontent.com/zachprof/dtabxl/main Tabulate univariate descriptive statistics in Excel
 l icodes https://raw.githubusercontent.com/zachprof/icodes/main Create numeric SIC and Fama-French industry codes
 l todatetime https://raw.githubusercontent.com/zachprof/todatetime/main Convert strings to datetime format
+l vctest https://raw.githubusercontent.com/zachprof/vctest/main Vuong and Clarke tests for nonnested model selection
